@@ -10,7 +10,7 @@ let B2 =  B**2
 let Dsq = Math.sqrt(D)
 
     if(A = ""){
-        alert("ИДИ на хуй")
+        alert("Введи значения")
 
     }
     else{
@@ -21,7 +21,7 @@ let Dsq = Math.sqrt(D)
     }
     }
     else {
-        alert("D=" + B2 + "-4*" + A +"*" + C + "=" + D  +  '\n' +  "Poshel na xui")
+        alert("D=" + B2 + "-4*" + A +"*" + C + "=" + D  +  '\n' +  "Нет решения")
     }
     }
 
